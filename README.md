@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-A bike sharing system is a set-up of sharing bikes for travel within towns. Bikes are picked from a dockt, and dropped at another dock of the same system. The payment and rental is computerized. Once the information and payment is done the bike is unlocked.
+A bike sharing system is a set-up of sharing bikes for travel within towns. Bikes are picked from a dock, and dropped at another dock of the same system. The payment and rental is computerized. Once the information and payment is done the bike is unlocked.
 This assingment aims to create a MLR for such a bikesharing system called BoomBike to review the bike demands and impacting variables.
 
 ## Table of Contents
