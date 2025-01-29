@@ -54,7 +54,7 @@ Thanks to IIIT-B and Upgrad
 
 
 ## Collaborator
-Created by [@https://github.com/kandiadi] 
+Created by [@AdityaKarnik][https://github.com/kandiadi] 
 
 
 
