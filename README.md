@@ -53,8 +53,8 @@ BoomBike is the bike sharing system in US. In pandemic company had dip in their 
 Thanks to IIIT-B and Upgrad
 
 
-## Contact
-Created by [@[githubusername](https://github.com/kandiadi)] - feel free to contact me!
+## Collaborator
+Created by [@https://github.com/kandiadi] 
 
 
 
